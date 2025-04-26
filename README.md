@@ -16,3 +16,6 @@ This project focuses on building a machine learning model that predicts healthca
 - AWS S3 (for deployment storage)
 - HTML/CSS/JavaScript
 - GitHub for version control
+
+## License
+This project is made for educational and demonstration purposes. Feel free to fork, modify, and use it for learning or prototyping.
